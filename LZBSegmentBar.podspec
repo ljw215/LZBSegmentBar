@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 选项卡组件LZBSegmentBar
                        DESC
 
-  s.homepage         = 'https://github.com/lzbgithubcode/LZBSegmentBar'
+  s.homepage         = 'https://coding.net/u/lzbcoder/p/LZBSegmentBar/git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lzbgithubcode' => '1835064412@qq.com' }
-  s.source           = { :git => 'https://github.com/lzbgithubcode/LZBSegmentBar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://git.coding.net/lzbcoder/LZBSegmentBar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
